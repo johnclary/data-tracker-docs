@@ -1,1 +1,24 @@
-theme: jekyll-theme-minimal
+---
+title: Data Tracker Docs
+timezone: America/Chicago
+description: User guide for the Arterial Management Data Tracker
+
+theme: jekyll-theme-zilker
+
+collections:
+  work-orders:
+    output: true
+  inventory:
+    output: true
+    
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: page
+
+gems:
+- jekyll-redirect-from
