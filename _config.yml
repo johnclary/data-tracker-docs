@@ -22,3 +22,4 @@ defaults:
 
 gems:
 - jekyll-redirect-from
+url: http://johnclary.github.io/data-tracker-docs/
