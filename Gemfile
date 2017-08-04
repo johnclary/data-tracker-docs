@@ -1,9 +1,4 @@
 source "https://rubygems.org"
-ruby RUBY_VERSION
 
-gem "jekyll", "3.4.3"
-gem "jekyll-theme-zilker", github: "cityofaustin/zilker-theme"
-
-group :jekyll_plugins do
-  gem "jekyll-redirect-from"
-end
+gem 'github-pages', group: :jekyll_plugins
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
