@@ -5,6 +5,7 @@ keywords: knowledge base, support portal, grid, doc portal
 permalink: index.html
 toc: false
 hide_sidebar: true
+summary: "This site provides user documentation for the City of Austin Transportation Department's Data Tracker. The Data Tracker is an asset and workforce management application built on the Knack database platform."
 ---
 <div class="row">
          <div class="col-lg-12">
@@ -21,7 +22,7 @@ hide_sidebar: true
                  <div class="panel-body">
                      <h4>Program Management</h4>
                      <p>Manage data for ATD programs and initiatives.</p>
-                     <a href="tag_getting_started.html" class="btn btn-primary">Learn More</a>
+                     <a href="" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -35,8 +36,8 @@ hide_sidebar: true
                  </div>
                  <div class="panel-body">
                      <h4>Asset Management</h4>
-                     <p>Find and update transportation assets.</p>
-                     <a href="tag_navigation.html" class="btn btn-primary">Learn More</a>
+                     <p>Find and update transportation assets such as traffic signals and .</p>
+                     <a href="" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -51,7 +52,7 @@ hide_sidebar: true
                  <div class="panel-body">
                      <h4>Work Orders</h4>
                      <p>Dispatch, complete, and review work orders.</p>
-                     <a href="tag_single_sourcing.html" class="btn btn-primary">Learn More</a>
+                     <a href="work-orders.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -66,7 +67,7 @@ hide_sidebar: true
                  <div class="panel-body">
                      <h4>Reports</h4>
                      <p>View reports and download business records.</p>
-                     <a href="tag_formatting.html" class="btn btn-primary">Learn More</a>
+                     <a href="" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>

@@ -72,7 +72,7 @@ defaults:
       layout: "page"
       comments: true
       search: true
-      sidebar: home_sidebar
+      sidebar: datatracker_sidebar
       topnav: topnav
   -
     scope:
@@ -98,12 +98,11 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
-- mydoc_sidebar
+- datatracker_sidebar
 
 description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
 url: johnclary.github.io
-baseurl: /data-tracker-docs
+baseurl: /

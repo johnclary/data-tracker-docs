@@ -1,0 +1,102 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Data Tracker Docs
+  version:
+  folders:
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+  - title: Asset Management
+    output: web
+    folderitems:
+
+    - title: About Assets
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+    - title: Signals
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+    - title: Detection
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+    - title: Cameras
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+    - title: Sensors
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+    - title: Digital Messaging Signs (DMS)
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+  - title: Work Orders
+    output: web
+    folderitems:
+
+    - title: Create a Work Order
+      url: /work-orders.html
+      output: web 
+      type: homepage
+
+    - title: Complete a Work Order
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+    - title: Find Your Work Orders
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+    - title: Work Order
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+  - title: Inventory
+    output: web
+    folderitems:
+
+    - title: About Inventory
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+    - title: Issue Items
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+    - title: Return Items
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+    - title: Replenish Inventory
+      url: under-construction.html
+      output: web 
+      type: homepage
+
+  - title: Signal Requests
+    output: web
+    folderitems:
